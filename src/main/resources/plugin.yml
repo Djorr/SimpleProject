@@ -1,0 +1,7 @@
+name: SimpleProject
+version: ${project.version}
+main: com.djorr.simpleproject.SimpleProject
+authors: [Djorr]
+commands:
+  spawn:
+    description: Spawn command
